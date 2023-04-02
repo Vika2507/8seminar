@@ -1,0 +1,15 @@
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\bin\Debug\net7.0\58.exe
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\bin\Debug\net7.0\58.deps.json
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\bin\Debug\net7.0\58.runtimeconfig.json
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\bin\Debug\net7.0\58.dll
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\bin\Debug\net7.0\58.pdb
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\obj\Debug\net7.0\58.csproj.AssemblyReference.cache
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\obj\Debug\net7.0\58.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\obj\Debug\net7.0\58.AssemblyInfoInputs.cache
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\obj\Debug\net7.0\58.AssemblyInfo.cs
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\obj\Debug\net7.0\58.csproj.CoreCompileInputs.cache
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\obj\Debug\net7.0\58.dll
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\obj\Debug\net7.0\refint\58.dll
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\obj\Debug\net7.0\58.pdb
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\obj\Debug\net7.0\58.genruntimeconfig.cache
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\58\obj\Debug\net7.0\ref\58.dll
