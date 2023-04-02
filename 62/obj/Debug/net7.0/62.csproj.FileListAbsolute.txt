@@ -1,0 +1,15 @@
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\obj\Debug\net7.0\62.csproj.AssemblyReference.cache
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\obj\Debug\net7.0\62.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\obj\Debug\net7.0\62.AssemblyInfoInputs.cache
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\obj\Debug\net7.0\62.AssemblyInfo.cs
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\obj\Debug\net7.0\62.csproj.CoreCompileInputs.cache
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\bin\Debug\net7.0\62.exe
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\bin\Debug\net7.0\62.deps.json
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\bin\Debug\net7.0\62.runtimeconfig.json
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\bin\Debug\net7.0\62.dll
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\bin\Debug\net7.0\62.pdb
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\obj\Debug\net7.0\62.dll
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\obj\Debug\net7.0\refint\62.dll
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\obj\Debug\net7.0\62.pdb
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\obj\Debug\net7.0\62.genruntimeconfig.cache
+D:\USER\Рабочий стол\курс разработчик\8 семинар дз\62\obj\Debug\net7.0\ref\62.dll
